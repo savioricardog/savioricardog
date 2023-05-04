@@ -1,5 +1,5 @@
-### Oi, meu nome é Savio
-Data Science | Data Analysis | BI
+## Olá, meu nome é Savio
+### Data Science | Data Analysis | BI
 
 - 👨🏻‍💻 **Ciência de dados**
 - 👨🏻‍💻 **Análise de dados**
