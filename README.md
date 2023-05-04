@@ -19,3 +19,6 @@ Data Science | Data Analysis | BI
 <a href="https://www.instagram.com/savioricardog/">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> 
 </a>
+<a href="https://twitter.com/savioricardog">
+ <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
