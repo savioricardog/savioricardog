@@ -15,7 +15,7 @@
 </div>
 
 #### Onde você pode me encontrar:
-<a href="https://www.linkedin.com/in/savio-ricardo-garcia">
+<a href="https://www.linkedin.com/in/savio-ricardo-garcia-122612190/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/> 
 </a>
 <a href="https://www.instagram.com/savioricardog/">
