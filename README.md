@@ -3,6 +3,7 @@
 
 - 👨🏻‍💻 **Ciência de dados**
 - 👨🏻‍💻 **Análise de dados**
+- 👨🏻‍💻 **Business Intelligence**
 - 🖥️ Ferramentas: 
 
 <div display='inline'>
