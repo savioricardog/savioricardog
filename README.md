@@ -13,7 +13,7 @@
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>        
- <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg"/>      
+ <img width="50" height="50" src="https://cdn.jsdelivr.net/npm/scikit-learn@0.1.0/index.min.js"/>      
 </div>
 
 #### Onde você pode me encontrar:
