@@ -1,5 +1,5 @@
-## Olá, meu nome é Savio
-### Analista de Dados | Data Science | BI | Dados
+## Olá, seja bem-vindo ao meu GGitHub
+### Analista de Dados | Data Scientist | BI | Dados
 
 - 👨🏻‍💻 **Analista de Dados**
 - 👨🏻‍💻 **Ciência de dados**
