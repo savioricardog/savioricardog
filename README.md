@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo ao meu GitHub
-## 💻 Analista de Dados 
+## 💻 Analista de BI Pleno
 
 <!--
 | Data Scientist | BI | Dados
@@ -21,15 +21,15 @@
 
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com Python, SQL e suas bibliotecas para Analise de dados, além de Power BI e QlikSense para Business Inteligence<br>
-🎲 Realizei projetos voltados a análise de dados e Business Inteligenci <br>
+🌐 Tenho experiência em trabalhar com QlikSense, SQL e Python, além de Power BI para Business Inteligence<br>
+🎲 Realizei projetos voltados a análise de dados e Business Intelligence <br>
 📚 Estou estudando economia e posteriormente realizei um MBA em Data Science e Analytics pela USP<br>
 📧 Quer entrar em contato comigo? Envie um e-mail para saviogarcia@outlook.com<br>
 <br>
 
 ## Sobre mim:
 
-Olá! Meu nome é Savio, tenho 24 anos e sou graduando em economia. Estou no mercado de dados há 1 ano.<br>
+Olá! Meu nome é Savio, tenho 24 anos e sou graduando em economia. Estou no mercado de dados há 3 ano.<br>
 
 ### Hard Skills:
 
@@ -55,7 +55,7 @@ Autodidata
 <br>
 
 
-Quanto aos idiomas, sou fluente em português e possuo inglês intermediário mas atualmente estou estudando a língua para me aprimorar no idioma.
+Quanto aos idiomas, sou fluente em português e possuo inglês B2 e atualmente estou estudando a língua para me aprimorar no idioma.
 
  
 
