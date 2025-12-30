@@ -29,7 +29,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Savio, tenho 24 anos e sou graduando em economia. Estou no mercado de dados há 3 ano.<br>
+Olá! Meu nome é Savio, tenho 25 anos e sou graduando em economia. Estou no mercado de dados a quase 4 anos.<br>
 
 ### Hard Skills:
 
@@ -55,7 +55,7 @@ Autodidata
 <br>
 
 
-Quanto aos idiomas, sou fluente em português e possuo inglês B2 e atualmente estou estudando a língua para me aprimorar no idioma.
+Quanto aos idiomas, sou fluente em português e possuo inglês B2.
 
  
 
