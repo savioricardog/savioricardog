@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo ao meu GitHub
-## 💻 Desenvolvedor de BI Pleno
+## 💻 Analista de Dados Pleno
 
 <!--
 | Data Scientist | BI | Dados
