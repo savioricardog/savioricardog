@@ -9,7 +9,7 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 
 ### 💳 Credit Card Propensity Model (Stacking)
 * **Goal:** Identify customers with the highest probability of acquiring a credit card.
-* **Impact:** Increased the conversion rate by **39%**, generating an estimated revenue increase of **R$ 4.2 Million**.
+* **Impact:** Increased the conversion rate by **39%**, generating an estimated revenue increase of **R$ 2.2 Million**.
 * **Tech:** Stacking ML models using RF, LGBM and XGBoost, MLflow, Scikit-Learn, Business Analytics.
 
 ### 🚜 Churn Prediction & Financial Retention (CatBoost)
@@ -19,7 +19,7 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 * [🔗 View Project](https://github.com/savioricardog/churn-predict)
 
 ### 🎲 Fraud Transaction Detection (LightGBM)
-* **Goal:** Detecting fraud transaction to save dirt money, not just accuracy/score metric.
+* **Goal:** Detecting fraud transaction to prevent financial losses, not just accuracy/score metric.
 * **Impact:** Find fraudulent transactions to save **~70% of money customer loss** by optimizing the decision threshold based on Recall Curves.
 * **Tech:** LightGBM, Scikit-Learn, Business Analytics.
 * [🔗 View Project](https://github.com/savioricardog/fraud-detection)
@@ -48,9 +48,9 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 ---
 
 ## ⚡ Soft Skills & Background
-* **Education:** B.Sc. in Economics (25 years old).
+* **Education:** B.Sc. in Economics and MBA Data Science Student.
 * **Languages:** Portuguese (Native), English (B2), Spanish (A1).
-* **Strengths:** Business Translation, Leadership, Quick Learning, and Consistency.
+* **Strengths:** Business Translation, Leadership, Quick Learning, Focus, Persistency and Consistency.
 
 ---
 
