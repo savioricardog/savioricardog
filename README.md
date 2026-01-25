@@ -1,5 +1,5 @@
 # Hi there, I'm Savio Ricardo Garcia! 👋
-### Data Scientist | Economist | Business Problem Solver
+### Data Scientist | Data Analyst | Economist | Business Problem Solver
 
 I am a Data Scientist with a background in **Economics** and over **4 years of experience** bridging the gap between raw data and business strategy. My focus is not just on building models, but on delivering financial results.
 
