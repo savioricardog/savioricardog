@@ -1,12 +1,13 @@
-# Olá, seja bem-vindo ao meu GitHub
-## 💻 Analista de Dados Pleno
+# Hi, Welcome to my GitHub
+## 💻 Data Scientist
 
 <!--
-| Data Scientist | BI | Dados
-- 👨🏻‍💻 **Analista de Dados**
-- 👨🏻‍💻 **Ciência de dados**
-- 👨🏻‍💻 **Business Intelligence**
-- 🖥️ **Ferramentas:** 
+| Data Scientist | BI | Data Analyst | Data Science
+- 👨🏻‍💻 **Data Scientist**
+- 👨🏻‍💻 **Data Analyst**
+- 👨🏻‍💻 **Business Intelligence Developer/Analyst**
+- 👨🏻‍💻 **Data Science**
+- 🖥️ **Tools:** 
 
 <div display='inline'>
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -19,52 +20,57 @@
 -->
 
 
-## Minha experiência:
+## Resume:
 
-🌐 Tenho experiência em trabalhar com QlikSense, SQL e Python, além de Power BI para Business Inteligence<br>
-🎲 Realizei projetos voltados a análise de dados e Business Intelligence <br>
-📚 Estou estudando economia e posteriormente realizei um MBA em Data Science e Analytics pela USP<br>
-📧 Quer entrar em contato comigo? Envie um e-mail para saviogarcia@outlook.com<br>
+📋 Credit Card Application Project - Probability of each customer contract our own credit card, helping company to improve the credit card contratation in 39% which results in an revenue increase of 4.2 million reais.<br> 
+🎲 Experience using ML Models (Churn and Regression projects), doing feature engineering, data modelling and deploying models.<br>
+🌐 4 years experience in Business Inteligence using QlikSense, SQL and Python, besides Power BI and Looker Studio<br>
+📧 Do you wanna contact me? Send an e-mail to **saviogarcia@outlook.com**<br>
 <br>
 
-## Sobre mim:
+## About:
 
-Olá! Meu nome é Savio, tenho 25 anos e sou graduando em economia. Estou no mercado de dados a quase 4 anos.<br>
+Hello! My name is Savio, I'm 25 year old and I'm degreed in bacharelor economics. I'm in data sector working with BI and Data Science for more than 4 years.<br>
 
 ### Hard Skills:
 
-Python (scikit-learn, pandas, numpy, matplotlib, seaborn, pyplot, pyautogui, selenium, statsmodels, streamlit)
+Python (pandas, numpy, matplotlib, seaborn, pyplot, selenium, statsmodels, streamlit)
 SQL
-Machine Learning (Modelos supervisionados, não supervisionados)
-Estatística descritiva aplicada à análise de dados
-Excel, PowerBI e QlikSense
+Machine Learning (scikit-learn, PyTorch, TensorFlow, Pycaret, LangChain, MLFlow, supervised models, unsupervised models)
+Data Engineering, Data Modelling and Exploratory Data Analysis
+QlikSense, PowerBI, Looker Studio, SQL, OracleDB, SnowFlake, DataBricks, Jira
 <br>
 
 <br>
 
 ### Soft Skills:
 
-Comunicativo
-Trabalho em equipe
-Proatividade
-Senso de liderança
-Aprendo muito rápido
-Autodidata
+Sociable
+Team working
+Proativity
+Leadership
+Persistency
+Consistency
+Focus
+Quick learning
+Self-taught
 <br>
 
 <br>
 
 
-Quanto aos idiomas, sou fluente em português e possuo inglês B2.
-
+Languages:
+* Portuguese (C2).
+* English (B2).
+* Spanish (A1).
  
 
-No GitHub, publico vários projetos pessoais relacionados à ciência de dados, Machine Learning e Business Inteligence.
+Here, I share my data science projects, mainly related to Machine Learning and Data Science projects.
 <br>
 
 <br>
 
-#### Onde você pode me encontrar:
+#### Here you can contact me:
 <a href="https://www.linkedin.com/in/savio-ricardo-garcia-122612190/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/> 
 </a>
