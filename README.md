@@ -24,7 +24,7 @@
 
 📋 Credit Card Application Project - Probability of each customer contract our own credit card, helping company to improve the credit card contratation in 39% which results in an revenue increase of 4.2 million reais.<br> 
 🎲 Experience using ML Models (Churn and Regression projects), doing feature engineering, data modelling and deploying models.<br>
-🌐 4 years experience in Business Inteligence using QlikSense, SQL and Python, besides Power BI and Looker Studio<br>
+🌐 4 years experience in Data Science sector using QlikSense, Machine Learning, SQL and Python, besides Power BI and Looker Studio<br>
 📧 Do you wanna contact me? Send an e-mail to **saviogarcia@outlook.com**<br>
 <br>
 
