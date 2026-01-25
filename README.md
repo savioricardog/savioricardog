@@ -7,7 +7,7 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 
 ## 🚀 Featured Projects (ROI & Impact)
 
-### 💳 Credit Card Propensity Model
+### 💳 Credit Card Propensity Model (Stacking)
 * **Goal:** Identify customers with the highest probability of acquiring a credit card.
 * **Impact:** Increased the conversion rate by **39%**, generating an estimated revenue increase of **R$ 4.2 Million**.
 * **Tech:** Stacking ML models using RF, LGBM and XGBoost, MLflow, Scikit-Learn, Business Analytics.
