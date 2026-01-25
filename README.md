@@ -84,4 +84,4 @@ Here, I share my data science projects, mainly related to Machine Learning and D
 
 <br>
 
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+Feel free to explore my project and contact me. I'm really excited to share my knowledge and colaborate in many interested projects.
