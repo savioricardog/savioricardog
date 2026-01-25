@@ -10,7 +10,7 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 ### 💳 Credit Card Propensity Model
 * **Goal:** Identify customers with the highest probability of acquiring a credit card.
 * **Impact:** Increased the conversion rate by **39%**, generating an estimated revenue increase of **R$ 4.2 Million**.
-* **Tech:** Machine Learning, Propensity Scoring.
+* **Tech:** Stacking ML models using RF, LGBM and XGBoost, MLflow, Scikit-Learn, Business Analytics.
 
 ### 🚜 Churn Prediction & Financial Retention (CatBoost)
 * **Goal:** Reduce customer attrition maximizing profit, not just accuracy.
