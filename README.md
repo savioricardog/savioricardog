@@ -66,7 +66,6 @@ Languages:
  
 
 Here, I share my data science projects, mainly related to Machine Learning and Data Science projects.
-<br>
 
 <br>
 
