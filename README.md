@@ -18,6 +18,12 @@ I am a Data Scientist with a background in **Economics** and over **4 years of e
 * **Tech:** CatBoost, MLflow, Scikit-Learn, Business Analytics.
 * [🔗 View Project](https://github.com/savioricardog/churn-predict)
 
+### 🎲 Fraud Transaction Detection (LightGBM)
+* **Goal:** Detecting fraud transaction to save dirt money, not just accuracy/score metric.
+* **Impact:** Find fraudulent transactions to save **~70% of money customer loss** by optimizing the decision threshold based on Recall Curves.
+* **Tech:** LightGBM, Scikit-Learn, Business Analytics.
+* [🔗 View Project](https://github.com/savioricardog/fraud-detection)
+
 ---
 
 ## 🛠️ Tech Stack
